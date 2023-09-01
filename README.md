@@ -5,7 +5,8 @@
 The additions_file.py adds the central arcsec error analysis, uncertainty plots for central arcsec stars, 
 bright stars to the previous compare_epoch.py file in starfinder version compare script. 
 
-You can run this as it is or copy the changes made. 
+You can run this as it is instead of compare_epoch.py or copy the changes made. 
+Remember to make the necessary file import changes in the stf_runs_compare_example1.py
 
 ** Central Arcsec stats table code addition **
 
