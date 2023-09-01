@@ -1,0 +1,141 @@
+             epoch nights_combo
+------------------ ------------
+     20050630nirc2 single_night
+     20050730nirc2 single_night
+     20050731nirc2 single_night
+     20060502nirc2 single_night
+     20060503nirc2 single_night
+     20060521nirc2 single_night
+20060620_0621nirc2  multi_night
+     20060620nirc2 single_night
+     20060621nirc2 single_night
+     20060717nirc2 single_night
+     20070517nirc2 single_night
+20070810_0812nirc2  multi_night
+     20070810nirc2 single_night
+     20070812nirc2 single_night
+     20080515nirc2 single_night
+     20080724nirc2 single_night
+20090501_0504nirc2  multi_night
+     20090501nirc2 single_night
+     20090502nirc2 single_night
+     20090504nirc2 single_night
+20090722_0724nirc2  multi_night
+     20090722nirc2 single_night
+     20090724nirc2 single_night
+     20090909nirc2 single_night
+20100504_0505nirc2  multi_night
+     20100504nirc2 single_night
+     20100505nirc2 single_night
+     20100706nirc2 single_night
+     20100815nirc2 single_night
+     20110527nirc2 single_night
+     20110718nirc2 single_night
+20110823_0824nirc2  multi_night
+     20110823nirc2 single_night
+     20110824nirc2 single_night
+20120515_0518nirc2  multi_night
+     20120515nirc2 single_night
+     20120518nirc2 single_night
+     20120724nirc2 single_night
+20130426_0427nirc2  multi_night
+     20130426nirc2 single_night
+     20130427nirc2 single_night
+     20130720nirc2 single_night
+20140319_0320nirc2  multi_night
+     20140319nirc2 single_night
+     20140320nirc2 single_night
+20140418_0419nirc2  multi_night
+     20140418nirc2 single_night
+     20140419nirc2 single_night
+     20140512nirc2 single_night
+     20140519nirc2 single_night
+20140703_0704nirc2  multi_night
+     20140703nirc2 single_night
+     20140704nirc2 single_night
+20140803_0806nirc2  multi_night
+     20140803nirc2 single_night
+     20140804nirc2 single_night
+     20140805nirc2 single_night
+     20140806nirc2 single_night
+20150331_0402nirc2  multi_night
+     20150331nirc2 single_night
+     20150401nirc2 single_night
+     20150402nirc2 single_night
+     20150514nirc2 single_night
+20150809_0811nirc2  multi_night
+     20150809nirc2 single_night
+     20150810nirc2 single_night
+     20150811nirc2 single_night
+     20160503nirc2 single_night
+     20160712nirc2 single_night
+     20160713nirc2 single_night
+20170504_0505nirc2  multi_night
+     20170504nirc2 single_night
+     20170505nirc2 single_night
+     20170718nirc2 single_night
+     20170727nirc2 single_night
+20170808_0811nirc2  multi_night
+     20170808nirc2 single_night
+     20170809nirc2 single_night
+     20170810nirc2 single_night
+     20170811nirc2 single_night
+20170823_0826nirc2  multi_night
+     20170823nirc2 single_night
+     20170824nirc2 single_night
+     20170826nirc2 single_night
+20180317_0330nirc2  multi_night
+20180317_0524nirc2  multi_night
+     20180317nirc2 single_night
+     20180322nirc2 single_night
+     20180330nirc2 single_night
+20180519_0524nirc2  multi_night
+     20180519nirc2 single_night
+     20180524nirc2 single_night
+20190419_0420nirc2  multi_night
+     20190419nirc2 single_night
+     20190420nirc2 single_night
+     20190513nirc2 single_night
+     20190523nirc2 single_night
+     20190625nirc2 single_night
+     20190630nirc2 single_night
+     20190814nirc2 single_night
+20190818_0819nirc2  multi_night
+     20190818nirc2 single_night
+     20190819nirc2 single_night
+     20200707nirc2 single_night
+     20200809nirc2 single_night
+     20210429nirc2 single_night
+20210513_0514nirc2  multi_night
+     20210513nirc2 single_night
+     20210514nirc2 single_night
+20210713_0714nirc2  multi_night
+     20210713nirc2 single_night
+     20210714nirc2 single_night
+20210812_0813nirc2  multi_night
+20210812_0814nirc2  multi_night
+     20210812nirc2 single_night
+     20210813nirc2 single_night
+     20210814nirc2 single_night
+     20210815nirc2 single_night
+     20210821nirc2 single_night
+20220514_0515nirc2  multi_night
+     20220514nirc2 single_night
+     20220515nirc2 single_night
+     20220521nirc2 single_night
+     20220525nirc2 single_night
+     20220716nirc2 single_night
+20220719_0722nirc2  multi_night
+     20220719nirc2 single_night
+     20220722nirc2 single_night
+20220814_0815nirc2  multi_night
+20220814_0816nirc2  multi_night
+     20220814nirc2 single_night
+     20220815nirc2 single_night
+     20220816nirc2 single_night
+20220819_0820nirc2  multi_night
+     20220819nirc2 single_night
+     20220820nirc2 single_night
+20230512_0513nirc2  multi_night
+     20230512nirc2 single_night
+     20230513nirc2 single_night
