@@ -1,4 +1,4 @@
-# GCG-Sumnmer-work
+# GCG-Summer-work
 
 ***
 
