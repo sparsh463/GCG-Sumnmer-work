@@ -1,6 +1,8 @@
-# GCG-Summer-work
+# GCG-Summer-work 2023
 
 ***
+
+Scripts for investigating properties of Galactic Center Stars. 
 
 The additions_file.py adds the central arcsec error analysis, uncertainty plots for central arcsec stars, 
 bright stars to the previous compare_epoch.py file in starfinder version compare script. 
